@@ -1,0 +1,1 @@
+python main.py --calibration_matrix_path=./calibration_matrix.yaml --monitor_pixels="1920, 1080" --monitor_mm="350, 230" --model_path=./p00.ckpt
